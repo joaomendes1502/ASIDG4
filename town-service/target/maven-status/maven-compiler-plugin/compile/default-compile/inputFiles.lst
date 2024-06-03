@@ -1,0 +1,16 @@
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\TownServiceApplication.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\validation\ValidTown.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\DTOs\CountryDTO.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\entity\Country.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\validation\ValidTownValidator.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\repository\TownRepository.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\config\SecurityConfig.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\entity\base\BaseEntityWithIdLong.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\config\ApplicationConfig.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\DTOs\TownDTO.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\validation\FieldMatch.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\service\TownService.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\service\AppUserDetailsService.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\controller\TownController.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\entity\Town.java
+C:\Users\gonca\Documents\Universidade\4º Ano\2º Semestre\ASID\Projeto\town-service\src\main\java\com\asidG1\parentservice\model\validation\FieldMatchValidator.java

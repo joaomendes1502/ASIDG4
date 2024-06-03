@@ -2,7 +2,21 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Saga/target" />
+      <excludeFolder url="file://$MODULE_DIR$/club-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/employee-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/gateway/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/gateway/target" />
+      <excludeFolder url="file://$MODULE_DIR$/parent-service/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/parent-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/service-discovery/target" />
+      <excludeFolder url="file://$MODULE_DIR$/student-service/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/student-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/teacher-service/target" />
+      <excludeFolder url="file://$MODULE_DIR$/town-service/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/town-service/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

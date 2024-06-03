@@ -1,0 +1,14 @@
+com\asidG1\parentservice\model\validation\ValidTownValidator.class
+com\asidG1\parentservice\model\entity\Town.class
+com\asidG1\parentservice\model\validation\ValidTown.class
+com\asidG1\parentservice\model\DTOs\CountryDTO.class
+com\asidG1\parentservice\TownServiceApplication.class
+com\asidG1\parentservice\model\entity\Country.class
+com\asidG1\parentservice\model\DTOs\TownDTO.class
+com\asidG1\parentservice\repository\TownRepository.class
+com\asidG1\parentservice\config\ApplicationConfig.class
+com\asidG1\parentservice\model\entity\base\BaseEntityWithIdLong.class
+com\asidG1\parentservice\model\validation\FieldMatch.class
+com\asidG1\parentservice\model\validation\FieldMatchValidator.class
+com\asidG1\parentservice\service\TownService.class
+com\asidG1\parentservice\controller\TownController.class
