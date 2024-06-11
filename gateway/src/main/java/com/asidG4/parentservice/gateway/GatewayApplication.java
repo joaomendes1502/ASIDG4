@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.gateway;
+package com.asidG4.parentservice.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.asidg1.servicediscovery;
+package com.asidg4.servicediscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

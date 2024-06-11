@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.saga.controller;
+package com.asidG4.parentservice.saga.controller;
 
 import com.asidG1.parentservice.saga.service.ClubService;
 import org.springframework.beans.factory.annotation.Autowired;

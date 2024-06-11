@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.model.DTOs;
+package com.asidG4.parentservice.model.DTOs;
 
 import com.asidG1.parentservice.model.DTOs.base.PersonEntityDTO;
 import com.asidG1.parentservice.model.validation.ValidDepartment;

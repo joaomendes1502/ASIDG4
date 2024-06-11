@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.saga.controller;
+package com.asidG4.parentservice.saga.controller;
 
 import com.asidG1.parentservice.saga.model.DTOs.StudentDTO;
 import com.asidG1.parentservice.saga.model.DTOs.StudentRegisterDTO;

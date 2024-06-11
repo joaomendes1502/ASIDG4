@@ -1,4 +1,4 @@
-package com.asidg1.parentservice.controllers;
+package com.asidg4.parentservice.controllers;
 
 import com.asidg1.parentservice.model.DTOs.ParentDTO;
 import org.springframework.beans.factory.annotation.Autowired;

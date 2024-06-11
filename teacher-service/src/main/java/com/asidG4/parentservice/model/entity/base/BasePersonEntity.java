@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.model.entity.base;
+package com.asidG4.parentservice.model.entity.base;
 
 import com.asidG1.parentservice.model.entity.enums.GenderEnum;
 import jakarta.persistence.Column;

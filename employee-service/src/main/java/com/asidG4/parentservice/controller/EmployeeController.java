@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.controller;
+package com.asidG4.parentservice.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

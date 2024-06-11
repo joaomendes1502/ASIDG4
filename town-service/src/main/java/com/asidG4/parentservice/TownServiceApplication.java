@@ -1,4 +1,4 @@
-package com.asidG1.parentservice;
+package com.asidG4.parentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

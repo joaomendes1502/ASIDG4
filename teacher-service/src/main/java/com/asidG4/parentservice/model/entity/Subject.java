@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.model.entity;
+package com.asidG4.parentservice.model.entity;
 
 import com.asidG1.parentservice.model.entity.base.BaseEntityWithIdLong;
 import jakarta.persistence.*;

@@ -1,4 +1,4 @@
-package com.asidg1.parentservice.config;
+package com.asidg4.parentservice.config;
 //package com.iStudent.config;
 //
 //import com.iStudent.model.entity.users.RolesEnum;

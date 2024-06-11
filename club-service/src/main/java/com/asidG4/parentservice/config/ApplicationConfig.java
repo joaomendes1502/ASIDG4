@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.config;
+package com.asidG4.parentservice.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

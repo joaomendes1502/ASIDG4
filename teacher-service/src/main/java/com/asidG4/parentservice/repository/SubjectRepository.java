@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.repository;
+package com.asidG4.parentservice.repository;
 
 import com.asidG1.parentservice.model.entity.Subject;
 import org.springframework.data.jpa.repository.JpaRepository;

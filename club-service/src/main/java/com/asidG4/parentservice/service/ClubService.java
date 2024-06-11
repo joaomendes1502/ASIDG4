@@ -1,4 +1,4 @@
-package com.asidG1.parentservice.service;
+package com.asidG4.parentservice.service;
 
 import com.asidG1.parentservice.repository.ClubRepository;
 import org.modelmapper.ModelMapper;
