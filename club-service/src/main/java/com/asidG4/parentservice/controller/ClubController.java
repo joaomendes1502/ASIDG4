@@ -5,9 +5,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.asidG1.parentservice.model.DTOs.ClubDTO;
+import com.asidG4.parentservice.model.DTOs.ClubDTO;
 //import com.asidG1.model.DTOs.StudentDTO;
-import com.asidG1.parentservice.service.ClubService;
+import com.asidG4.parentservice.service.ClubService;
 
 import jakarta.validation.Valid;
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.asidG4.parentservice.studentservice.model.entity;
 
-import com.asidG1.parentservice.studentservice.model.entity.base.BaseEntityWithIdLong;
-import com.asidG1.parentservice.studentservice.model.entity.enums.MarkEnum;
+import com.asidG4.parentservice.studentservice.model.entity.base.BaseEntityWithIdLong;
+import com.asidG4.parentservice.studentservice.model.entity.enums.MarkEnum;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

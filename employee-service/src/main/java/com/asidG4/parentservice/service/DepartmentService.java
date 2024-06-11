@@ -1,10 +1,10 @@
 package com.asidG4.parentservice.service;
 
-import com.asidG1.parentservice.repository.DepartmentRepository;
+import com.asidG4.parentservice.repository.DepartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.asidG1.parentservice.model.entity.Department;
+import com.asidG4.parentservice.model.entity.Department;
 
 @Service
 public class DepartmentService {

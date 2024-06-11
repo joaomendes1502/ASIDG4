@@ -1,11 +1,9 @@
 package com.asidG4.parentservice.saga.model.DTOs.base;
 
 
-import com.asidG1.parentservice.saga.model.DTOs.TownDTO;
-//import com.asidG1.studentservice.model.DTOs.TownDTO;
-import com.asidG1.parentservice.saga.model.validation.ValidEGN;
-import com.asidG1.parentservice.saga.model.validation.ValidGender;
-//import com.asidG1.studentservice.validation.ValidTown;
+import com.asidG4.parentservice.saga.model.DTOs.TownDTO;
+import com.asidG4.parentservice.saga.model.validation.ValidEGN;
+import com.asidG4.parentservice.saga.model.validation.ValidGender;
 import jakarta.validation.constraints.*;
 
 public abstract class PersonEntityDTO {

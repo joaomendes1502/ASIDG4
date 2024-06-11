@@ -1,7 +1,7 @@
 package com.asidG4.parentservice.saga.feignclient;
 
-import com.asidG1.parentservice.saga.model.DTOs.ParentDTO;
-import com.asidG1.parentservice.saga.model.DTOs.ParentRegisterDTO;
+import com.asidG4.parentservice.saga.model.DTOs.ParentDTO;
+import com.asidG4.parentservice.saga.model.DTOs.ParentRegisterDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;

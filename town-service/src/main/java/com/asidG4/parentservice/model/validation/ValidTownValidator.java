@@ -1,7 +1,7 @@
 package com.asidG4.parentservice.model.validation;
 
-import com.asidG1.parentservice.model.DTOs.TownDTO;
-import com.asidG1.parentservice.repository.TownRepository;
+import com.asidG4.parentservice.model.DTOs.TownDTO;
+import com.asidG4.parentservice.repository.TownRepository;
 import jakarta.validation.*;
 
 import org.springframework.beans.factory.annotation.Autowired;

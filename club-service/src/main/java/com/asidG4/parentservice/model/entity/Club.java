@@ -2,7 +2,7 @@ package com.asidG4.parentservice.model.entity;
 
 import jakarta.persistence.*;
 
-import com.asidG1.parentservice.model.entity.base.BaseEntityWithIdLong;
+import com.asidG4.parentservice.model.entity.base.BaseEntityWithIdLong;
 
 import java.util.Collections;
 import java.util.HashSet;

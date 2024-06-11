@@ -1,7 +1,7 @@
 package com.asidG4.parentservice.web;
 
-import com.asidG1.parentservice.model.DTOs.TeacherDTO;
-import com.asidG1.parentservice.service.TeacherService;
+import com.asidG4.parentservice.model.DTOs.TeacherDTO;
+import com.asidG4.parentservice.service.TeacherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

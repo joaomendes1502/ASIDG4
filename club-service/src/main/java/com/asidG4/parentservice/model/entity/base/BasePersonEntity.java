@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.model.entity.base;
 
-import com.asidG1.parentservice.model.entity.enums.GenderEnum;
+import com.asidG4.parentservice.model.entity.enums.GenderEnum;
 import jakarta.persistence.*;
 
 //import com.asidG1.model.entity.Town;

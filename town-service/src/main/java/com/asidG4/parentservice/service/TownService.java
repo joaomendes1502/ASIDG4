@@ -1,8 +1,8 @@
 package com.asidG4.parentservice.service;
 
-import com.asidG1.parentservice.model.DTOs.TownDTO;
-import com.asidG1.parentservice.model.entity.Town;
-import com.asidG1.parentservice.repository.TownRepository;
+import com.asidG4.parentservice.model.DTOs.TownDTO;
+import com.asidG4.parentservice.model.entity.Town;
+import com.asidG4.parentservice.repository.TownRepository;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

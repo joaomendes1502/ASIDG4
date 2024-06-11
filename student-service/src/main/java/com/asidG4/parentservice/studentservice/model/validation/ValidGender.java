@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.studentservice.model.validation;
 
-import com.asidG1.parentservice.studentservice.model.entity.enums.GenderEnum;
+import com.asidG4.parentservice.studentservice.model.entity.enums.GenderEnum;
 import jakarta.validation.*;
 
 

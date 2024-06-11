@@ -1,7 +1,7 @@
 package com.asidG4.parentservice.studentservice.repository;
 
-import com.asidG1.parentservice.studentservice.model.entity.Mark;
-import com.asidG1.parentservice.studentservice.model.entity.enums.MarkEnum;
+import com.asidG4.parentservice.studentservice.model.entity.Mark;
+import com.asidG4.parentservice.studentservice.model.entity.enums.MarkEnum;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

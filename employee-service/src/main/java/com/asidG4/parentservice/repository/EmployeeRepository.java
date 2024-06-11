@@ -3,7 +3,7 @@ package com.asidG4.parentservice.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.asidG1.parentservice.model.entity.Employee;
+import com.asidG4.parentservice.model.entity.Employee;
 
 import java.util.Optional;
 

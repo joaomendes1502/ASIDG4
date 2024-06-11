@@ -2,7 +2,7 @@ package com.asidG4.parentservice.model.validation;
 
 import jakarta.validation.*;
 
-import com.asidG1.parentservice.model.entity.enums.GenderEnum;
+import com.asidG4.parentservice.model.entity.enums.GenderEnum;
 
 import java.util.Arrays;
 

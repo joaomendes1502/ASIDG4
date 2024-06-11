@@ -2,7 +2,7 @@ package com.asidg4.parentservice.model.entity;
 
 import jakarta.persistence.*;
 
-import com.asidg1.parentservice.model.entity.base.BasePersonEntity;
+import com.asidg4.parentservice.model.entity.base.BasePersonEntity;
 
 @Entity
 @Table(name = "parents")

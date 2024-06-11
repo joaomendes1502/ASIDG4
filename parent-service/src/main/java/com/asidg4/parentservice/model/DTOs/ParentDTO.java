@@ -2,7 +2,7 @@ package com.asidg4.parentservice.model.DTOs;
 
 import jakarta.validation.constraints.NotBlank;
 
-import com.asidg1.parentservice.model.DTOs.base.PersonEntityDTO;
+import com.asidg4.parentservice.model.DTOs.base.PersonEntityDTO;
 
 public class ParentDTO extends PersonEntityDTO {
 

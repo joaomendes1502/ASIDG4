@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.asidG1.parentservice.model.DTOs.TownDTO;
-import com.asidG1.parentservice.service.TownService;
+import com.asidG4.parentservice.model.DTOs.TownDTO;
+import com.asidG4.parentservice.service.TownService;
 
 @RestController
 @RequestMapping("/towns")

@@ -1,15 +1,15 @@
 package com.asidG4.parentservice.saga.service;
 
-import com.asidG1.parentservice.saga.model.DTOs.ClubDTO;
-import com.asidG1.parentservice.saga.model.DTOs.StudentRegisterDTO;
+import com.asidG4.parentservice.saga.model.DTOs.ClubDTO;
+import com.asidG4.parentservice.saga.model.DTOs.StudentRegisterDTO;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.asidG1.parentservice.saga.feignclient.ClubClient;
-import com.asidG1.parentservice.saga.feignclient.StudentClient;
+import com.asidG4.parentservice.saga.feignclient.ClubClient;
+import com.asidG4.parentservice.saga.feignclient.StudentClient;
 
 import feign.FeignException;
 

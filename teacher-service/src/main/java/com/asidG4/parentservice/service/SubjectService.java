@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.service;
 
-import com.asidG1.parentservice.repository.SubjectRepository;
+import com.asidG4.parentservice.repository.SubjectRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

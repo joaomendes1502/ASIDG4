@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.studentservice.model.DTOs;
 
-import com.asidG1.parentservice.studentservice.model.DTOs.base.PersonEntityDTO;
+import com.asidG4.parentservice.studentservice.model.DTOs.base.PersonEntityDTO;
 
 import java.time.LocalDate;
 import java.util.Set;

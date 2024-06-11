@@ -1,13 +1,12 @@
 package com.asidG4.parentservice.studentservice.service;
 
-import com.asidG1.parentservice.studentservice.model.DTOs.MarkDTO;
-import com.asidG1.parentservice.studentservice.model.DTOs.StudentDTO;
-import com.asidG1.parentservice.studentservice.model.entity.Mark;
-import com.asidG1.parentservice.studentservice.model.entity.Student;
-//import com.asidG1.studentservice.model.entity.Parent;
-//import com.asidG1.studentservice.model.entity.Town;
-import com.asidG1.parentservice.studentservice.repository.MarkRepository;
-import com.asidG1.parentservice.studentservice.repository.StudentRepository;
+import com.asidG4.parentservice.studentservice.model.DTOs.MarkDTO;
+import com.asidG4.parentservice.studentservice.model.DTOs.StudentDTO;
+import com.asidG4.parentservice.studentservice.model.entity.Mark;
+import com.asidG4.parentservice.studentservice.model.entity.Student;
+
+import com.asidG4.parentservice.studentservice.repository.MarkRepository;
+import com.asidG4.parentservice.studentservice.repository.StudentRepository;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

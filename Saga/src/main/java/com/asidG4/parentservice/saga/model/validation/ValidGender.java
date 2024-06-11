@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.saga.model.validation;
 
-import com.asidG1.parentservice.saga.model.DTOs.base.GenderEnum;
+import com.asidG4.parentservice.saga.model.DTOs.base.GenderEnum;
 import jakarta.validation.*;
 
 

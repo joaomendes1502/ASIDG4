@@ -2,7 +2,7 @@ package com.asidG4.parentservice.model.DTOs;
 
 import java.util.Set;
 
-import com.asidG1.parentservice.model.validation.UniqueClubName;
+import com.asidG4.parentservice.model.validation.UniqueClubName;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;

@@ -2,7 +2,7 @@ package com.asidG4.parentservice.model.entity;
 
 import jakarta.persistence.*;
 
-import com.asidG1.parentservice.model.entity.base.BasePersonEntity;
+import com.asidG4.parentservice.model.entity.base.BasePersonEntity;
 
 
 @Entity

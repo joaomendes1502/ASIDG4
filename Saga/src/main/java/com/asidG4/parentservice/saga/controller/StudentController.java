@@ -1,8 +1,8 @@
 package com.asidG4.parentservice.saga.controller;
 
-import com.asidG1.parentservice.saga.model.DTOs.StudentDTO;
-import com.asidG1.parentservice.saga.model.DTOs.StudentRegisterDTO;
-import com.asidG1.parentservice.saga.service.StudentService;
+import com.asidG4.parentservice.saga.model.DTOs.StudentDTO;
+import com.asidG4.parentservice.saga.model.DTOs.StudentRegisterDTO;
+import com.asidG4.parentservice.saga.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

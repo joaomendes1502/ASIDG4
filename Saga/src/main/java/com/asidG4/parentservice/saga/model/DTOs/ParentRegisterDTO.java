@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.saga.model.DTOs;
 
-import com.asidG1.parentservice.saga.model.DTOs.base.PersonEntityRegisterDTO;
+import com.asidG4.parentservice.saga.model.DTOs.base.PersonEntityRegisterDTO;
 
 import jakarta.validation.constraints.NotBlank;
 

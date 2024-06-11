@@ -2,11 +2,11 @@ package com.asidg4.parentservice.model.DTOs.base;
 
 
 //import com.iStudent.model.validation.ValidTown;
-import com.asidg1.parentservice.model.entity.enums.GenderEnum;
+import com.asidg4.parentservice.model.entity.enums.GenderEnum;
 import jakarta.validation.constraints.*;
 
-import com.asidg1.parentservice.model.validation.ValidEGN;
-import com.asidg1.parentservice.model.validation.ValidGender;
+import com.asidg4.parentservice.model.validation.ValidEGN;
+import com.asidg4.parentservice.model.validation.ValidGender;
 
 public abstract class PersonEntityDTO {
 

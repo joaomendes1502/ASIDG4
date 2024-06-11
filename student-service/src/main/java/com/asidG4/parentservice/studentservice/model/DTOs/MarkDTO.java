@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.studentservice.model.DTOs;
 
-import com.asidG1.parentservice.studentservice.model.entity.enums.MarkEnum;
+import com.asidG4.parentservice.studentservice.model.entity.enums.MarkEnum;
 
 import jakarta.validation.constraints.NotNull;
 

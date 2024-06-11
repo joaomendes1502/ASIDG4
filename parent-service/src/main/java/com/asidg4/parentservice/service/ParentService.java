@@ -1,9 +1,9 @@
 package com.asidg4.parentservice.service;
 
 //import com.iStudent.repository.StudentRepository;
-import com.asidg1.parentservice.model.DTOs.ParentDTO;
-import com.asidg1.parentservice.model.entity.Parent;
-import com.asidg1.parentservice.repository.ParentRepository;
+import com.asidg4.parentservice.model.DTOs.ParentDTO;
+import com.asidg4.parentservice.model.entity.Parent;
+import com.asidg4.parentservice.repository.ParentRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

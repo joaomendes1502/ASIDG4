@@ -1,12 +1,12 @@
 package com.asidg4.parentservice.controllers;
 
-import com.asidg1.parentservice.model.DTOs.ParentDTO;
+import com.asidg4.parentservice.model.DTOs.ParentDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.asidg1.parentservice.service.ParentService;
+import com.asidg4.parentservice.service.ParentService;
 
 import jakarta.validation.Valid;
 import java.util.List;

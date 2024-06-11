@@ -1,6 +1,6 @@
 package com.asidg4.parentservice.model.validation;
 
-import com.asidg1.parentservice.model.entity.enums.GenderEnum;
+import com.asidg4.parentservice.model.entity.enums.GenderEnum;
 import jakarta.validation.*;
 
 import java.lang.annotation.*;

@@ -1,8 +1,8 @@
 package com.asidG4.parentservice.studentservice.controller;
 
-import com.asidG1.parentservice.studentservice.model.DTOs.MarkDTO;
-import com.asidG1.parentservice.studentservice.model.DTOs.StudentDTO;
-import com.asidG1.parentservice.studentservice.service.StudentService;
+import com.asidG4.parentservice.studentservice.model.DTOs.MarkDTO;
+import com.asidG4.parentservice.studentservice.model.DTOs.StudentDTO;
+import com.asidG4.parentservice.studentservice.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

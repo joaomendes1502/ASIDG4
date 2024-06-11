@@ -1,9 +1,9 @@
 package com.asidG4.parentservice.model.validation;
 
-import com.asidG1.parentservice.repository.DepartmentRepository;
+import com.asidG4.parentservice.repository.DepartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.asidG1.parentservice.model.DTOs.DepartmentDTO;
+import com.asidG4.parentservice.model.DTOs.DepartmentDTO;
 
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;

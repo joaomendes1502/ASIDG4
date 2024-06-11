@@ -8,14 +8,14 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.asidG1.parentservice.saga.feignclient.ParentClient;
-import com.asidG1.parentservice.saga.feignclient.StudentClient;
-import com.asidG1.parentservice.saga.feignclient.TownClient;
-import com.asidG1.parentservice.saga.model.DTOs.ParentDTO;
-import com.asidG1.parentservice.saga.model.DTOs.ParentRegisterDTO;
-import com.asidG1.parentservice.saga.model.DTOs.StudentDTO;
-import com.asidG1.parentservice.saga.model.DTOs.StudentRegisterDTO;
-import com.asidG1.parentservice.saga.model.DTOs.TownDTO;
+import com.asidG4.parentservice.saga.feignclient.ParentClient;
+import com.asidG4.parentservice.saga.feignclient.StudentClient;
+import com.asidG4.parentservice.saga.feignclient.TownClient;
+import com.asidG4.parentservice.saga.model.DTOs.ParentDTO;
+import com.asidG4.parentservice.saga.model.DTOs.ParentRegisterDTO;
+import com.asidG4.parentservice.saga.model.DTOs.StudentDTO;
+import com.asidG4.parentservice.saga.model.DTOs.StudentRegisterDTO;
+import com.asidG4.parentservice.saga.model.DTOs.TownDTO;
 
 import feign.FeignException;
 

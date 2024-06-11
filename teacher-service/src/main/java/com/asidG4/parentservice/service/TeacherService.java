@@ -7,11 +7,11 @@ import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.asidG1.parentservice.model.DTOs.TeacherDTO;
-import com.asidG1.parentservice.model.entity.Subject;
-import com.asidG1.parentservice.model.entity.Teacher;
+import com.asidG4.parentservice.model.DTOs.TeacherDTO;
+import com.asidG4.parentservice.model.entity.Subject;
+import com.asidG4.parentservice.model.entity.Teacher;
 //import com.iStudent.model.entity.Town;
-import com.asidG1.parentservice.repository.TeacherRepository;
+import com.asidG4.parentservice.repository.TeacherRepository;
 
 @Service
 public class TeacherService {

@@ -1,6 +1,6 @@
 package com.asidG4.parentservice.model.validation;
 
-import com.asidG1.parentservice.repository.ClubRepository;
+import com.asidG4.parentservice.repository.ClubRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import jakarta.validation.ConstraintValidator;

@@ -3,7 +3,7 @@ package com.asidG4.parentservice.saga.model.DTOs;
 import java.time.LocalDate;
 import java.util.Set;
 
-import com.asidG1.parentservice.saga.model.DTOs.base.PersonEntityDTO;
+import com.asidG4.parentservice.saga.model.DTOs.base.PersonEntityDTO;
 
 public class StudentDTO extends PersonEntityDTO{
     private final LocalDate enrollDate = LocalDate.now();

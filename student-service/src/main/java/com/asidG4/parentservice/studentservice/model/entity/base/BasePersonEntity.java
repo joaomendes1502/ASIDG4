@@ -1,7 +1,6 @@
 package com.asidG4.parentservice.studentservice.model.entity.base;
 
-//import com.asidG1.studentservice.model.entity.Town;
-import com.asidG1.parentservice.studentservice.model.entity.enums.GenderEnum;
+import com.asidG4.parentservice.studentservice.model.entity.enums.GenderEnum;
 import jakarta.persistence.*;
 
 @MappedSuperclass

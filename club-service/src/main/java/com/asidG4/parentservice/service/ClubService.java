@@ -1,13 +1,13 @@
 package com.asidG4.parentservice.service;
 
-import com.asidG1.parentservice.repository.ClubRepository;
+import com.asidG4.parentservice.repository.ClubRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.asidG1.parentservice.model.DTOs.ClubDTO;
-import com.asidG1.parentservice.model.entity.Club;
+import com.asidG4.parentservice.model.DTOs.ClubDTO;
+import com.asidG4.parentservice.model.entity.Club;
 
 import java.util.List;
 import java.util.Optional;
